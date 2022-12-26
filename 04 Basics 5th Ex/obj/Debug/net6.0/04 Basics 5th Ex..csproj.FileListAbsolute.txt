@@ -1,0 +1,15 @@
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\04 Basics 5th Ex\04 Basics 5th Ex\bin\Debug\net6.0\04 Basics 5th Ex..exe
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\04 Basics 5th Ex\04 Basics 5th Ex\bin\Debug\net6.0\04 Basics 5th Ex..deps.json
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\04 Basics 5th Ex\04 Basics 5th Ex\bin\Debug\net6.0\04 Basics 5th Ex..runtimeconfig.json
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\04 Basics 5th Ex\04 Basics 5th Ex\bin\Debug\net6.0\04 Basics 5th Ex..dll
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\04 Basics 5th Ex\04 Basics 5th Ex\bin\Debug\net6.0\04 Basics 5th Ex..pdb
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\04 Basics 5th Ex\04 Basics 5th Ex\obj\Debug\net6.0\04 Basics 5th Ex..csproj.AssemblyReference.cache
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\04 Basics 5th Ex\04 Basics 5th Ex\obj\Debug\net6.0\04 Basics 5th Ex..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\04 Basics 5th Ex\04 Basics 5th Ex\obj\Debug\net6.0\04 Basics 5th Ex..AssemblyInfoInputs.cache
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\04 Basics 5th Ex\04 Basics 5th Ex\obj\Debug\net6.0\04 Basics 5th Ex..AssemblyInfo.cs
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\04 Basics 5th Ex\04 Basics 5th Ex\obj\Debug\net6.0\04 Basics 5th Ex..csproj.CoreCompileInputs.cache
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\04 Basics 5th Ex\04 Basics 5th Ex\obj\Debug\net6.0\04 Basics 5th Ex..dll
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\04 Basics 5th Ex\04 Basics 5th Ex\obj\Debug\net6.0\refint\04 Basics 5th Ex..dll
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\04 Basics 5th Ex\04 Basics 5th Ex\obj\Debug\net6.0\04 Basics 5th Ex..pdb
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\04 Basics 5th Ex\04 Basics 5th Ex\obj\Debug\net6.0\04 Basics 5th Ex..genruntimeconfig.cache
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\04 Basics 5th Ex\04 Basics 5th Ex\obj\Debug\net6.0\ref\04 Basics 5th Ex..dll
